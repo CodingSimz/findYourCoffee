@@ -3,15 +3,13 @@
 This repository contains files for my mini FIND YOUR COFFEE game. It's my interpretation of Codecademy's "Find Your Hat" JavaScript project. 
 
 ### Features
-The size of the field can be altered and the Game has two levels, 1 and 2 that denote the number of holes per game. 
 
-It is CURRENTLY meant to be played in a Terminal.
+![Alt text](find-your-coffee-game-simone-waring.jpg?raw=true "Game Snapshot")
 
-Hot Tip: This Game looks pretty in VS Code with the Dracula Dark+ extension
-
+- The size of the field can be altered and the Game has two levels, 1 and 2 that denote the number of holes per game. 
+- It is CURRENTLY meant to be played in a Terminal and was tested in VS Code with the Dracula Dark+ extension
 
 ## Installation
-
 This project requires you to have node.js and npm installed.
 
 Once unzipped
